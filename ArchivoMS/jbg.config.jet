@@ -1,0 +1,23 @@
+{
+	"legalText":"jackboxFmodCriware",
+	"defaultLocale":"en",
+	"gameName":"StanLoader",
+	"env":"console",
+	"serverUrl":"ecast.jackboxgames.com",
+	"showBuildVersion":"true",
+	"supportedLocales":"en,fr,it,de,es,es-XL,pt-BR",
+	"preventDispose":"true",
+	"isStandalone":"true",
+	"versionId":"1.1.0",
+	"video-extension":".usm",
+	"videoplayer":"true",
+	"audio-extension":".ogg",
+	"connectingDurationAbort":"30000",
+	"connectingDurationTrouble":"7000",
+	"needExitbutton":"false",
+	"isBundle":"true",
+	"allowUserSwitching":"true",
+	"allowIntroSkip":"true",
+	"buildTimeStamp":"2025-05-08 03:38:27",
+	"buildVersion":"540.1-ES"
+}
